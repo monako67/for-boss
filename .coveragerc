@@ -1,0 +1,9 @@
+[run]
+branch = True
+source = agent,tools,rag,chatbot,pipeline,llm,config,prompts,bot,logger_config
+
+[report]
+show_missing = True
+
+[html]
+directory = htmlcov

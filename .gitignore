@@ -1,0 +1,16 @@
+﻿.env
+.venv/
+__pycache__/
+*.pyc
+*.log
+.coverage
+chat_history.json
+*.log.*
+previous_day24_*/
+before_day24_*/
+.venv24/
+__pycache__/
+
+.env.*
+htmlcov/
+

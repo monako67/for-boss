@@ -1,0 +1,2 @@
+-r requirements-full.txt
+coverage>=7
